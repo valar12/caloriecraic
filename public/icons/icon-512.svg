@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Calorie Craic icon">
+  <rect width="512" height="512" rx="112" fill="#0f172a"/>
+  <path d="M144 328c0-86 48-156 112-156s112 70 112 156" fill="none" stroke="#e2e8f0" stroke-width="32" stroke-linecap="round"/>
+  <path d="M194 328c0-46 27-83 62-83s62 37 62 83" fill="none" stroke="#22c55e" stroke-width="32" stroke-linecap="round"/>
+  <circle cx="256" cy="148" r="40" fill="#22c55e"/>
+</svg>

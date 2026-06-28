@@ -1,0 +1,11 @@
+{
+  "name": "caloriecraic-api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "src/functions/*.js",
+  "dependencies": {
+    "@azure/functions": "latest",
+    "mssql": "latest"
+  }
+}
